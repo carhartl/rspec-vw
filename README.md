@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/carhartl/rspec-vw.svg)](https://travis-ci.org/carhartl/rspec-vw)
 
-Make your failing specs succeed under CI tools scrutiny.
+Make your failing specs succeed under CI tools scrutiny. Inspired by https://github.com/hmlb/phpunit-vw.
 
 ## Installation
 
