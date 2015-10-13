@@ -1,5 +1,7 @@
 # RSpec VW
 
+[![Build Status](https://travis-ci.org/carhartl/rspec-vw.svg)](https://travis-ci.org/carhartl/rspec-vw)
+
 Make your failing specs succeed under CI tools scrutiny.
 
 ## Installation
